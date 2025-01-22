@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Run the server with Uvicorn:
 
 ```bash
-uvicorn main:app --reload
+uvicorn map_view:app --reload
 ```
 
 ### API Endpoint
